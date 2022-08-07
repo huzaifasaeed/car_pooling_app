@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "604807361686",
+    "firebase_url": "https://car-pool-app-9a80c-default-rtdb.firebaseio.com",
+    "project_id": "car-pool-app-9a80c",
+    "storage_bucket": "car-pool-app-9a80c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604807361686:android:971d0806ee49341cf3feb7",
+        "android_client_info": {
+          "package_name": "com.huzaifa.car_pooling_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604807361686-oesg5agogggc5m5blohe55mf46j44376.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMSEELNhx_qJHFZUGjZno-ugmDN675Gcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604807361686-oesg5agogggc5m5blohe55mf46j44376.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
